@@ -1,0 +1,4 @@
+Your Order are:
+iPhone x 1 = Rs. 1000.0
+Samsung x 1 = Rs. 1005.0
+Total - Rs. 2005.0

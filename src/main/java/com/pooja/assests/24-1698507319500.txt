@@ -1,0 +1,5 @@
+Your Order are:
+Samsung x 1 = Rs. 1005.0
+iPhone x 1 = Rs. 1000.0
+Shirt x 1 = Rs. 105.0
+Total - Rs. 2110.0
